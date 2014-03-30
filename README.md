@@ -7,3 +7,9 @@ Sponsored by Mr. Benson and the AcaDec class at PHS, the inaugural Derk Janssen 
 
 http://derkjanssenpoetrycontest.com
 http://djpoetry.com
+
+
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+
+> Common Misspellings: Jansen, Jannsen, Jannssen
