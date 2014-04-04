@@ -7,6 +7,5 @@ SitemapGenerator::Sitemap.create do
   add '/bio', :changefreq => 'weekly', :priority => 0.5
   add '/rules', :changefreq => 'weekly', :priority => 0.6
   add '/submit', :changefreq => 'weekly', :priority => 0.7
-  add '/', :changefreq => 'weekly', :priority => 0.8
 end
 SitemapGenerator::Sitemap.ping_search_engines
